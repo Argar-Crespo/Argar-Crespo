@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 **Pregúntame sobre**: Edición de video
 - 📫 **Cómo contactarme**: Escribeme al correo: argar.crespo.7e8@itb.cat
 - 😄 **Apodo**: Duende 
-- ⚡ **Dato curiosos**: 
+- ⚡ **Dato curiosos**: Me flipan los duendes 
 
