@@ -2,12 +2,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about all
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: CR7 > Barça
+- 🔭 **Estoy actualmente trabajando en**: La edición de video y creación de páginas web junto a {Ashmed-Barreiro}. 
+- 🌱 **Estoy aprendiendo**: A programar
+- 👯 **Busco colaborar en**: En la creación de páginas web
+- 🤔 **Busco ayuda con**: Programación
+- 💬 **Pregúntame sobre**: Edición de video
+- 📫 **Cómo contactarme**: Escribeme al correo: argar.crespo.7e8@itb.cat
+- 😄 **Apodo**: Duende 
+- ⚡ **Dato curiosos**: 
 
